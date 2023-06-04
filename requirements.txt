@@ -207,7 +207,6 @@ Werkzeug==2.2.2
 whitenoise==5.3.0
 widgetsnbextension==4.0.5
 wrapt==1.12.1
-xgboost==1.6.0
 xyzservices==2022.9.0
 yagmail==0.15.293
 yarl==1.8.2
